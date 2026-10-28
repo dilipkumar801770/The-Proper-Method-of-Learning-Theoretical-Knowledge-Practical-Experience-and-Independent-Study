@@ -1,0 +1,2 @@
+# The-Proper-Method-of-Learning-Theoretical-Knowledge-Practical-Experience-and-Independent-Study
+This article explores effective learning through theory, practical experience, project development, maintenance, problem-solving and independent study. It compares academic qualifications with practical competence and proposes evidence-based assessment of cumulative engineering learning in EE, EC, CS and IE during 1990–1994.
